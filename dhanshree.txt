@@ -1,1 +1,3 @@
-hi this is dhanshree 
+hi this is dhanshree
+my name is dhanshree vineet kulkarni
+i am studying full stack development 
